@@ -1,0 +1,5 @@
+C:\Users\davey\Downloads\FunctionOpdracht\FunctionOpdracht5\FunctionOpdracht5\obj\Debug\net6.0\FunctionOpdracht5.csproj.AssemblyReference.cache
+C:\Users\davey\Downloads\FunctionOpdracht\FunctionOpdracht5\FunctionOpdracht5\obj\Debug\net6.0\FunctionOpdracht5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davey\Downloads\FunctionOpdracht\FunctionOpdracht5\FunctionOpdracht5\obj\Debug\net6.0\FunctionOpdracht5.AssemblyInfoInputs.cache
+C:\Users\davey\Downloads\FunctionOpdracht\FunctionOpdracht5\FunctionOpdracht5\obj\Debug\net6.0\FunctionOpdracht5.AssemblyInfo.cs
+C:\Users\davey\Downloads\FunctionOpdracht\FunctionOpdracht5\FunctionOpdracht5\obj\Debug\net6.0\FunctionOpdracht5.csproj.CoreCompileInputs.cache
