@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\davey\\Documents\\ma\\flex\\hw\\HW_variable_rekenen1\\CalculateOpdracht\\CalculateOpdracht1\\CalculateOpdracht1\\CalculateOpdracht1.csproj",
+      "projectUniqueName": "C:\\Users\\davey\\Documents\\HW\\week-3-huiswerk-\\CalculateOpdracht\\CalculateOpdracht1\\CalculateOpdracht1\\CalculateOpdracht1.csproj",
       "projectName": "CalculateOpdracht1",
-      "projectPath": "C:\\Users\\davey\\Documents\\ma\\flex\\hw\\HW_variable_rekenen1\\CalculateOpdracht\\CalculateOpdracht1\\CalculateOpdracht1\\CalculateOpdracht1.csproj",
+      "projectPath": "C:\\Users\\davey\\Documents\\HW\\week-3-huiswerk-\\CalculateOpdracht\\CalculateOpdracht1\\CalculateOpdracht1\\CalculateOpdracht1.csproj",
       "packagesPath": "C:\\Users\\davey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\davey\\Documents\\ma\\flex\\hw\\HW_variable_rekenen1\\CalculateOpdracht\\CalculateOpdracht1\\CalculateOpdracht1\\obj\\",
+      "outputPath": "C:\\Users\\davey\\Documents\\HW\\week-3-huiswerk-\\CalculateOpdracht\\CalculateOpdracht1\\CalculateOpdracht1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\davey\\AppData\\Roaming\\NuGet\\NuGet.Config",
